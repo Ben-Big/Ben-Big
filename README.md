@@ -13,11 +13,11 @@
 ---
 
 ## 💡 About&nbsp;Me
-- Graduate of **Kernelios Cybersecurity program** (500 + hrs practical training)  
-- Comfortable on **Linux** & **Windows Server**; run a home SOC lab for experiments  
-- Focused on packet analysis, log hunting, and network defence  
-- **CCNA** studies in progress; aiming for a SOC/NOC Tier-1 role  
-- If a workflow slows me down, I write a small utility and share it here  
+- **Network Security Engineer** at **2Bsecure @ Matrix**, specializing in Enterprise security architectures.
+- Expert-level experience with **Check Point (CCSE R81.x)** and **Palo Alto Networks (NETSEC-PRO)**.
+- Focus: Designing and implementing NGFW, Harmony SASE, and complex encryption solutions (Thales Luna HSM).
+- I leverage **Python** and **Linux** to automate security workflows and bridge the gap between networking and code.
+- Currently exploring advanced network forensics and large-scale security automation.
 
 ---
 
@@ -31,8 +31,10 @@
 ---
 
 ## 📜 Certifications
-- **LPI Linux Essentials** ✅  
-- **Cisco CCNA** 🔄 (in progress)
+- **Check Point Certified Security Expert (CCSE R81.20)** ✅
+- **Palo Alto Networks NETSEC-PRO** ✅
+- **Cisco Certified CyberOps Associate** ✅
+- **LPI Linux Essentials** ✅
 
 ---
 
