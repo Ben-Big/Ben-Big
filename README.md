@@ -7,7 +7,7 @@
 
 <h1 align="center">Hey&nbsp;👋&nbsp;I'm&nbsp;Ben-Big</h1>
 <p align="center">
-  Hands-on cybersecurity learner building my own defense tools&nbsp;🔒
+  Network Security Engineer | Automating Defense & Architecting Enterprise Security 🔒&nbsp;🔒
 </p>
 
 ---
@@ -31,10 +31,10 @@
 ---
 
 ## 📜 Certifications
-- **Check Point Certified Security Expert (CCSE R81.20)** ✅
-- **Palo Alto Networks NETSEC-PRO** ✅
-- **Cisco Certified CyberOps Associate** ✅
-- **LPI Linux Essentials** ✅
+- **Check Point:** Certified Security Expert (**CCSE R81.20**) & **CCSA**. ✅
+- **Palo Alto Networks:** **NETSEC-PRO** (Certified Next-Generation Firewall Engineer). ✅
+- **Cisco:** **CCNA Security** & **Certified CyberOps Associate** (200-201). ✅
+- **Security & Infrastructure:** **Thales Luna HSM 7**, **LPI Linux**, and Network Forensics. ✅
 
 ---
 
