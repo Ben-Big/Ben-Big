@@ -7,7 +7,7 @@
 
 <h1 align="center">Hey&nbsp;👋&nbsp;I'm&nbsp;Ben-Big</h1>
 <p align="center">
-  Network Security Engineer | Automating Defense & Architecting Enterprise Security 🔒&nbsp;🔒
+  Network Security Engineer | Automating Defense & Architecting Enterprise Security &nbsp;🔒
 </p>
 
 ---
